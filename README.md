@@ -47,14 +47,25 @@ Location Services: Google Maps + Geocoding
 Audio: just_audio, record
 
 
-![Screenshot_2025-08-23-11-53-15-10_f5ffddf51776ae61a950b94a29f9edc0](https://github.com/user-attachments/assets/8d5118e2-d3bc-4cc4-b5fd-dbd1cca00cc8)![Screenshot_2025-08-23-11-55-08-13_f5ffddf51776ae61a950b94a29f9edc0](https://github.com/user-attachments/assets/54367a63-57d9-4b47-b1e9-57df2c808be6)
-![Screenshot_2025-08-23-11-55-03-08_f5ffddf51776ae61a950b94a29f9edc0](https://github.com/user-attachments/assets/24893e0c-77ed-4945-a943-1e9b7cd068d1)
-![Screenshot_2025-08-23-11-54-58-53_f5ffddf51776ae61a950b94a29f9edc0](https://github.com/user-attachments/assets/83a5cbf4-caad-429f-bff2-ae0a390bc470)
+## 📸 Screenshots
 
-![IMG_20250823_115959](https://github.com/user-attachments/assets/0c80be92-5b7f-4650-b1ff-0e0dadbe3872)
-![IMG_20250823_115822](https://github.com/user-attachments/assets/b2cb066b-e2fe-426a-9e60-8c356d854a53)
-![Screenshot_2025-08-23-11-55-43-73_f5ffddf51776ae61a950b94a29f9edc0](https://github.com/user-attachments/assets/385afa07-d7e9-4f07-a4c3-a52bf784eb56)
-![Screenshot_2025-08-23-11-55-16-29_f5ffddf51776ae61a950b94a29f9edc0](https://github.com/user-attachments/assets/f1be47da-9f4b-42ec-8629-418fa6a7b78c)
-![Screenshot_2025-08-23-11-55-11-49_f5ffddf51776ae61a950b94a29f9edc0](https://github.com/user-attachments/assets/44e24f1d-2cef-41c1-be1b-b6da0c21120e)
+### 🏠 Home & Recording
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d5118e2-d3bc-4cc4-b5fd-dbd1cca00cc8" width="250" />
+  <img src="https://github.com/user-attachments/assets/54367a63-57d9-4b47-b1e9-57df2c808be6" width="250" />
+</p>
+
+### 📍 Location & Explore
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24893e0c-77ed-4945-a943-1e9b7cd068d1" width="250" />
+  <img src="https://github.com/user-attachments/assets/83a5cbf4-caad-429f-bff2-ae0a390bc470" width="250" />
+</p>
+
+### 📂 Saved Notes & Playback
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7b82b7ff-9d5a-4b2c-9e31-9fcb7d25e1f5" width="250" />
+  <img src="https://github.com/user-attachments/assets/67a0a40c-1fdd-4a58-bd93-9af27e71e6e2" width="250" />
+</p>
+
 
 
