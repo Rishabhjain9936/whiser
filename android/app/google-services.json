@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "535048283848",
+    "firebase_url": "https://chatapp-3c1e9-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-3c1e9",
+    "storage_bucket": "chatapp-3c1e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535048283848:android:dd1f5db2c4bb60fbdc27fd",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5rYoBt0-qmAWRYqiZ8W3C8OmuCADcpIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535048283848:android:4b77e1b1f17c30f3dc27fd",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5rYoBt0-qmAWRYqiZ8W3C8OmuCADcpIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535048283848:android:683e321fe99db227dc27fd",
+        "android_client_info": {
+          "package_name": "com.example.hamster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5rYoBt0-qmAWRYqiZ8W3C8OmuCADcpIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535048283848:android:afde79f8ba34752bdc27fd",
+        "android_client_info": {
+          "package_name": "com.example.whisper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5rYoBt0-qmAWRYqiZ8W3C8OmuCADcpIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    id 'com.google.gms.google-services'
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+android {
+    namespace = "com.example.whisper"
+    compileSdkVersion 35  // replace flutter.compileSdkVersion
+    defaultConfig {
+        applicationId "com.example.whisper"
+        minSdkVersion 23
+        targetSdkVersion 35  // replace flutter.targetSdkVersion if present
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.debug
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+}
+
+flutter {
+    source = "../.."
+}
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.4.0'
+}
